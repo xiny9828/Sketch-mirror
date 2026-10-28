@@ -2,7 +2,7 @@
 
 <img src="sketch_icon_512.png" width="120" alt="Sketch Mirror">
 
-# 💎 Sketch Mirror
+### 💎 Sketch Mirror
 
 <br>
 
@@ -24,9 +24,8 @@
 
 ---
 
-<br>
-
 </div>
+
 
 ### ✨ 功能特性
 
@@ -37,11 +36,9 @@
 - 🎯 **画板自动跟随**｜选中 Sketch 画板自动同步预览，新手也能快速上手
 - 🔒 **隐私安全**｜仅本地 WiFi 局域网传输，设计稿不上云，设备连接需要授权
 
-<br>
 
 ---
 
-<br>
 
 ### 🚀 使用方法
 
@@ -49,7 +46,7 @@
    
    <img width="211" height="294" alt="image" src="https://github.com/user-attachments/assets/63bfd1e4-8ea8-45af-b5d8-9c7a4e01926b" />
 
-2. **下载并安装 Android 客户端**：下载上方 `sketchmirror.apk` 并安装到 Android 设备
+2. **下载并安装 Android 客户端**：下载 `sketchmirror.apk` 并安装到 Android 设备
    
    <img width="270" height="587" alt="Screenshot_2026-10-28-11-30-32-184_com xiny9828 SketchMirror" src="https://github.com/user-attachments/assets/40d9ed37-e1b6-4bf2-ab0f-23d80a523511" />
    
