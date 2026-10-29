@@ -6,7 +6,7 @@
 
 <br>
 
-**实时预览 Sketch 设计稿，跨设备即时同步，零闪烁体验**
+**实时预览 Sketch 设计稿，跨设备即时同步，提高工作效率**
 
 [![Sketch](https://img.shields.io/badge/Sketch-%3E%3D100-orange)](https://www.sketch.com)
 [![Release](https://img.shields.io/badge/Release-v1.8-green)](https://github.com/xiny9828/Sketch-mirror/releases)
