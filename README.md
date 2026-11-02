@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="sketch_icon_512.png" width="120" alt="Sketch Mirror">
-
 ### 💎 Sketch Mirror
 
 <br>
